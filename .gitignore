@@ -1,0 +1,8 @@
+node_modules/
+artifacts/
+*.mp4
+*.mov
+*.webm
+*.docx
+*.pptx
+.DS_Store
